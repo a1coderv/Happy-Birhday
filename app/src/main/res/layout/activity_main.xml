@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    tools:context="com.developer.imlv.happybirthday.MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="center"
+
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+
+        android:src="@drawable/androidparty" />
+
+    <TextView
+        android:id="@+id/from_happybirthday"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="Happy Birthday !!"
+        android:textSize="35sp"
+        android:layout_margin="20dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:layout_alignParentLeft="true"
+        android:textColor="#00BCD4"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:id="@+id/to_happyBirthday"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="20dp"
+        android:text="To Bishnoi Bro !!"
+        android:textSize="30sp"
+        android:textColor="#AA00FF"
+        android:textStyle="bold"
+        android:layout_margin="20dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:layout_alignParentRight="true"
+        />
+
+</RelativeLayout>
