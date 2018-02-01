@@ -6,4 +6,6 @@
 * <a href ="https://drive.google.com/file/d/0B5XIkMkayHgRMVljUVIyZzNmQUU/view"></a>
 * <a href ="https://material.io/guidelines/style/color.html#color-color-palette"> Material Google</a>
 * <a  href ="https://chris.banes.me/">Chris </a>
-* <a href ="http://abhiandroid.com/">AbiAndroid</a>
+* <a href ="http://abhiandroid.com/">Abhi Android</a>
+* <a href ="http://www.vogella.com/">Vogella Android Tutorials</a>
+* <a href="http://www.mkyong.com/android/">Android Apps Tutorials</a>
