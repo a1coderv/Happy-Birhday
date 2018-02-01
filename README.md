@@ -9,3 +9,11 @@
 * <a href ="http://abhiandroid.com/">Abhi Android</a>
 * <a href ="http://www.vogella.com/">Vogella Android Tutorials</a>
 * <a href="http://www.mkyong.com/android/">Android Apps Tutorials</a>
+
+# Java Practice
+# Arrays
+<a href ="http://codingbat.com/java/Array-1">Coding Bat</a>
+# EMOJI
+
+* <a href ="https://www.emojione.com/">Emoji</a>
+
