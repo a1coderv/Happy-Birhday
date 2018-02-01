@@ -1,4 +1,4 @@
-# Happy Birthday :
+# Happy Birthday : :tada: :fireworks:
 # Android Resources:
 * <a href="https://android-developers.googleblog.com/2014/08/material-design-in-2014-google-io-app.html">Google  </a>
 * <a href ="https://plus.google.com/+KirillGrouchnikov">Kirill Grouchnikov </a>
