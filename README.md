@@ -25,3 +25,7 @@
 <a href = "http://androidniceties.tumblr.com/">Android Niceties</a>
 
 <a href = "https://pttrns.com/">Pttrns.com </a>
+
+<a href ="https://discussions.udacity.com/t/app-navigation-patterns/167864/7">Udacity Discussion </a>
+
+<a href ="https://developer.android.com/training/design-navigation/screen-planning.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics#diagram-relationships">Google </a>
