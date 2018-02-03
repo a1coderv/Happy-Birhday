@@ -19,3 +19,7 @@
 
 * <a href ="https://www.emojione.com/">Emoji</a>
 
+
+
+# Best UI Suggestion :tada: :fireworks:
+<a href = "http://androidniceties.tumblr.com/">Android Niceties</a>
