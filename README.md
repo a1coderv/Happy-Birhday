@@ -23,3 +23,5 @@
 
 # Best UI Suggestion :tada: :fireworks:
 <a href = "http://androidniceties.tumblr.com/">Android Niceties</a>
+
+<a href = "https://pttrns.com/">Pttrns.com </a>
